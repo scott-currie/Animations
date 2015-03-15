@@ -46,5 +46,5 @@ Temporary Items
 __pycache__
 *.pyc
 
-#Komodo files
+# Komodo files
 *.komodoproject
